@@ -1,0 +1,22 @@
+body {
+    background-color:cornflowerblue;
+    text-align: center;
+    font-family: 'Caveat', cursive;
+}
+p {
+    background-color: white;
+    padding: 10px;
+    color: green;
+    font-size: 20px;
+}
+h2 {
+    padding: 15px;
+    color: green;
+}
+h1 {
+    font-size:75px;
+    color: white
+}
+.fas {
+    color: green;
+}
